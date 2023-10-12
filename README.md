@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Python refactorings and simplifications (#7549)
