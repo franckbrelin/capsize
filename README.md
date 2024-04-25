@@ -1,1 +1,1 @@
-Add Roboflow 100 Dataset Docs Page (#8065)
+docs: update view-results-in-terminal.md (#66)
